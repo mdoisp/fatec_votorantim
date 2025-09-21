@@ -1,0 +1,36 @@
+@startjson
+{
+    "PetAdote":{
+        "animais":{
+            "nome":"Billy",
+            "peso": "12.5",
+            "sexo": "macho",
+            "características": ["dócil", "pequeno", "companheiro"],
+            "interessados": {
+                {"cpf": "123.456.789-01",
+                "dataInteresse": "20/01/2023"},
+                {"cpf": "234.567.890-12",
+                "dataInteresse": "14/06/2024"}
+            }
+        },
+        "raças": {
+            "id": "0001",
+            "descrição": "SRD"
+        },
+        "interessados": {
+            "cpf": "111.111.101-00",
+            "nome": "Moisés De Jesus",
+            "endereço": {
+                "logradouro": "Avenidas Tiradentes, 211",
+                "bairro": "Centro",
+                "cidade": "Sorocaba",
+                "estado": ,
+                "local": {
+                    "type": "Point",
+                    "coordinates": [-23.10, -45.33]
+                }
+            }
+        }
+    }
+}
+@endjson
