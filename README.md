@@ -1,2 +1,2 @@
-# DSM_algoritmos
-Repositório de Algoritmos e Lógica de Programação do curso de DSM da Fatec
+# BancodeDadosRelacional
+Repositório da disciplina de Banco de Dados da Fatec Votorantim do curso de "DSM".
