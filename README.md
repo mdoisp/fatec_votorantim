@@ -1,4 +1,2 @@
-# Fatec - Votorantim
-Repositório das matérias do curso de "Desenvolvimento de Software Multiplataforma" da Fatec Votorantim
-
-## Navegue através das branchs para a matéria desejada
+# DSM_desenvolvimento_design
+Repositório de Desenvolvimento Web e Design Digital do curso de DSM da Fatec

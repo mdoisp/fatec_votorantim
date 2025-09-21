@@ -1,0 +1,11 @@
+h2{
+    color: blueviolet;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
+section{
+    border: 1px solid black;
+    display: flex;
+}

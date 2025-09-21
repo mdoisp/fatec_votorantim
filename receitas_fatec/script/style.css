@@ -1,0 +1,61 @@
+/* Color Theme Swatches in Hex */
+.receitas_fatec-1-hex { color: #BF8756; }
+.receitas_fatec-2-hex { color: #BF622C; }
+.receitas_fatec-3-hex { color: #BF7D56; }
+.receitas_fatec-4-hex { color: #F2F2F2; }
+.receitas_fatec-5-hex { color: #262626; }
+.menus{
+    border: 1px solid #262626;
+    padding: 10px;
+    display: inline;
+    background-color: #BF8756;
+}
+.menus_ul{
+    text-align: center;
+    list-style-type: none;
+}
+body{
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 15%;
+    margin-right: 15%;
+    align-content: center;
+}
+ul li{
+    list-style-type: square;
+    align-content: center;
+    background-color: #F2F2F2;
+}
+ol{
+    text-align: justify;
+    margin: 5px;
+    padding: 2%;
+    background-color: #F2F2F2
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #BF7D56;
+}
+h1, h2{ 
+    text-align: center;
+    color: #BF622C;
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+h3{
+    text-align: center;
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+table, th{
+    padding: 10px;
+    background-color:#F2F2F2;
+}
+td{
+    padding: 5px;
+    text-align: center;
+}
